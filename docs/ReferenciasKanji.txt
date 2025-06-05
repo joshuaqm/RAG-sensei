@@ -1,0 +1,14 @@
+TXT
+kanji-1.txt:
+https://es.wikipedia.org/wiki/Kanji
+kanji-2.txt:
+https://mirandohaciajapon.com/el-kanji-su-utilidad-y-funcion/
+kanji-3.txt
+https://www.bokksu.com/blogs/news/what-is-kanji?srsltid=AfmBOopsm5qJHRqfC6NRbI2HAvDPODxTtW1xp3c4DcPnmJKXveDpAL3i
+
+
+PDF
+KanjiParaRecordar:
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia801406.us.archive.org/9/items/KanjiParaRecordar/Kanji%2520Para%2520Recordar.pdf&ved=2ahUKEwjA1Majm66NAxXkDkQIHbqBCxoQFnoECD4QAQ&usg=AOvVaw1t6HdGPVPk7wxpEK9qHH3M
+GuiaKanjis.pdf:
+https://blog-rosettastone-com.translate.goog/what-is-kanji/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
